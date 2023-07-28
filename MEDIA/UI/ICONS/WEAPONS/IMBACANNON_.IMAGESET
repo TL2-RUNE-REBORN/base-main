@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBACANNON_" Imagefile="media/ui/icons/weapons/IMBACANNON_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbacannon_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_3" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_2" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbacannon_15" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_14" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_13" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_12" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_11" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_10" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbacannon_1" XPos="385" YPos="65" Width="62" Height="62" />
+</Imageset>

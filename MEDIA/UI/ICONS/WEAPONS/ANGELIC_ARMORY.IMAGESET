@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "angelic_armory" Imagefile="media/ui/icons/weapons/angelic_armory.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_angelic_boots" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_angelic_chest" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_angelic_gloves" XPos="127" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_angelic_helmet" XPos="190" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_angelic_pants" XPos="253" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_angelic_shoulders" XPos="316" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_kunai" XPos="379" YPos="1" Width="62" Height="62" />	
+	<Image Name="icon_caliburn" XPos="442" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_holy_shield" XPos="1" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_tanto" XPos="64" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_wakasashi" XPos="127" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_kuroitsuki" XPos="190" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_white_dwarf" XPos="253" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_evangelist" XPos="316" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_claymore" XPos="379" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_zweihander" XPos="442" YPos="64" Width="62" Height="62" />
+</Imageset>

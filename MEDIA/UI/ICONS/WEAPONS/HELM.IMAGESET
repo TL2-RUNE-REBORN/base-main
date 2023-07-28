@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "helm" Imagefile="media/ui/icons/weapons/helm.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zhizhezhixing" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="zhihuitoukui" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="talaxiaderuizhizhirong" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="shouhuzhezhiyuzhao" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="posunwangguan" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="natayadeguanshi" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="muguang" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="mangxin" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="liaoruikewangguan" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="kaiendehuiyi" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="judatougu" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="buxiuzhiwangdeshengli" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="aojidezhiding" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="anlian" XPos="321" YPos="65" Width="62" Height="62" />
+</Imageset>

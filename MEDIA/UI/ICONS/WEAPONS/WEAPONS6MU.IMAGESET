@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "WEAPONS6MU" Imagefile="media/ui/icons/weapons/WEAPONS6MU.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_nodachi09" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi08" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi07" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi06" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi05" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi04" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi03" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi02" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_nodachi01" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana09" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana08" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana07" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana06" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana05" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana04" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana03" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana02" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_weapon_katana01" XPos="65" YPos="129" Width="62" Height="62" />
+</Imageset>

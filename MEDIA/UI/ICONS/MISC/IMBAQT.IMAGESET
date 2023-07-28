@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAQT" Imagefile="media/ui/icons/misc/IMBAQT.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbaqt9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt8c" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt8b" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt88b" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt88a" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt8" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt7" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt6" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaqt5" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt4" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt3" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt22" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt21" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt20" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt2" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt19" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaqt18" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt17" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt16" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt15" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt14" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt13" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt12" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt11" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaqt10" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaqt1" XPos="65" YPos="193" Width="62" Height="62" />
+</Imageset>

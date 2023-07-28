@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons5" Imagefile="media/ui/itemicons/itemicons5.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="rifle_03_05" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="rifle_03_04" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="rifle_03_03" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="rifle_03_02" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="rifle_03" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="rifle_02_04" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="rifle_02_03" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="rifle_02_02" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles19" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles18" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles17_02" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles17" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles16" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="rifles15" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles14" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles13" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles12" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles11" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles10" XPos="321" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles09" XPos="385" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles08" XPos="449" YPos="193" Width="62" Height="62" />
+	<Image Name="rifles07" XPos="1" YPos="257" Width="62" Height="62" />
+	<Image Name="rifles06" XPos="65" YPos="257" Width="62" Height="62" />
+	<Image Name="rifles05" XPos="129" YPos="257" Width="62" Height="62" />
+	<Image Name="rifles04" XPos="193" YPos="257" Width="62" Height="62" />
+	<Image Name="rifle01" XPos="257" YPos="257" Width="62" Height="62" />
+	<Image Name="polearm_12" XPos="385" YPos="257" Width="62" Height="62" />
+	<Image Name="polearm_11" XPos="449" YPos="257" Width="62" Height="62" />
+</Imageset>

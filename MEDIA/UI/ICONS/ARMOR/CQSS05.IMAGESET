@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "CQSS05" Imagefile="media/ui/icons/ARMOR/CQSS05.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="CQSS05" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>

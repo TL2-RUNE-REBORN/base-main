@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Imageset Name= "jediskillicons" Imagefile="media/ui/icons/skills/jediskillicons.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+
+     <Image Name="skill_jlightning" XPos="0" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jlightning_gray" XPos="64" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jfrenzy" XPos="128" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jfrenzy_gray" XPos="192" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jslash" XPos="256" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jslash_gray" XPos="320" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jbubble" XPos="384" YPos="0" Width="64" Height="64" />
+     <Image Name="skill_jbubble_gray" XPos="448" YPos="0" Width="64" Height="64" />
+
+     <Image Name="skill_jpush" XPos="0" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_jpush_gray" XPos="64" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_jsweep" XPos="128" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_jsweep_gray" XPos="192" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_sabermaster" XPos="256" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_sabermaster_gray" XPos="320" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_jleap" XPos="384" YPos="64" Width="64" Height="64" />
+     <Image Name="skill_jleap_gray" XPos="448" YPos="64" Width="64" Height="64" />
+
+     <Image Name="skill_jchoke" XPos="0" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jchoke_gray" XPos="64" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jtrance" XPos="128" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jtrance_gray" XPos="192" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jcharm" XPos="256" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jcharm_gray" XPos="320" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jshield" XPos="384" YPos="128" Width="64" Height="64" />
+     <Image Name="skill_jshield_gray" XPos="448" YPos="128" Width="64" Height="64" />
+
+     <Image Name="skill_jdeflect" XPos="0" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_jdeflect_gray" XPos="64" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_jdual" XPos="128" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_jdual_gray" XPos="192" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_requestpadawanfem" XPos="256" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_requestpadawanfem_gray" XPos="320" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_requestpadawan" XPos="384" YPos="192" Width="64" Height="64" />
+     <Image Name="skill_requestpadawan_gray" XPos="448" YPos="192" Width="64" Height="64" />
+	 
+</Imageset>

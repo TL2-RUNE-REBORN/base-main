@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons10" Imagefile="media/ui/itemicons/itemicons10.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="crossbows_10" XPos="1" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_09" XPos="65" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_08" XPos="129" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_07" XPos="193" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_06" XPos="257" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_05" XPos="321" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_04" XPos="385" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbows_03" XPos="449" YPos="1" Width="62" Height="62"  />
+	<Image Name="crossbow01" XPos="1" YPos="65" Width="62" Height="62"  />
+	<Image Name="cleaver01_02" XPos="129" YPos="65" Width="62" Height="62"  />
+	<Image Name="chopper" XPos="193" YPos="65" Width="62" Height="62"  />
+	<Image Name="bow_01_03" XPos="257" YPos="65" Width="62" Height="62"  />
+	<Image Name="bow_01_02" XPos="321" YPos="65" Width="62" Height="62"  />
+	<Image Name="bow_01" XPos="385" YPos="65" Width="62" Height="62"  />
+	<Image Name="bow14" XPos="449" YPos="65" Width="62" Height="62"  />
+	<Image Name="bow13" XPos="1" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow12" XPos="65" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow11_2" XPos="129" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow11" XPos="193" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow10" XPos="257" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow09" XPos="321" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow08" XPos="385" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow07" XPos="449" YPos="129" Width="62" Height="62"  />
+	<Image Name="bow06" XPos="1" YPos="193" Width="62" Height="62"  />
+	<Image Name="bow05" XPos="65" YPos="193" Width="62" Height="62"  />
+	<Image Name="bow04" XPos="129" YPos="193" Width="62" Height="62"  />
+	<Image Name="bow03" XPos="193" YPos="193" Width="62" Height="62"  />
+</Imageset>

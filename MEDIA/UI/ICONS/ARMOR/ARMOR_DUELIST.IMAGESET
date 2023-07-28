@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="armor_duelist" Imagefile="media/ui/icons/armor/armor_duelist.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_armor_duelist_renegade_shoulders" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_pants" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_helmet" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_gloves" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_chest" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_boots" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_renegade_belt" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_shoulders" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_pants" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_helmet" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_gloves" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_chest" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_boots" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_iron_guard_belt" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_shoulders" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_pants" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_helmet" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_gloves" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_chest" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_boots" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_armor_duelist_duelist_belt" XPos="257" YPos="129" Width="62" Height="62" />
+</Imageset>

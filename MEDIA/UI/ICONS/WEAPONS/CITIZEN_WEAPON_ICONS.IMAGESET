@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "citizen_weapons_icon_sheet" Imagefile="media/ui/icons/weapons/citizen_weapon_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_citizen_shovel" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty02" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty03" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty04" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty05" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty06" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty07" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="citizen_empty08" XPos="449" YPos="1" Width="62" Height="62" />
+</Imageset>

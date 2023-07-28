@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "throwingglaives" Imagefile="media/ui/icons/weapons/throwingglaives.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_throwingglaive1" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingglaive2" XPos="65" YPos="1" Width="62" Height="62" />
+</Imageset>

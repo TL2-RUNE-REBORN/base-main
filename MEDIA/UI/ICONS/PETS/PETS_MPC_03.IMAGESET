@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets_mpc_03" Imagefile="media/ui/icons/pets/pets_mpc_03.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mpc_deathcapiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="mpc_deathcapiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="mpc_deathcapicon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="mpc_velociraptor_iconselected" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="mpc_blood_constselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="mpc_blood_consthover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="mpc_blood_consticon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="mpc_velociraptor_iconhover" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_1_iconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_1_iconhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_1_icon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="mpc_velociraptor_icon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_2_iconselected" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_2_iconhover" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="mpc_ironbeast_2_icon" XPos="256" YPos="384" Width="128" Height="128" />
+</Imageset>

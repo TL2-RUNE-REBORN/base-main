@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAWAND_" Imagefile="media/ui/icons/weapons/IMBAWAND_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbawand_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_3" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_26" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbawand_25" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_24" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_23" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_22" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_21" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_20" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_2" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_19" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbawand_18" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_17" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_16" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_15" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_14" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_13" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_12" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_11" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbawand_10" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="imbawand_1" XPos="65" YPos="193" Width="62" Height="62" />
+</Imageset>

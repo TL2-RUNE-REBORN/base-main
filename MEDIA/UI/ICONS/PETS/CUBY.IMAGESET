@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "cuby" Imagefile="media/ui/icons/pets/cuby.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="cubeiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="cubeiconhover" XPos="129" YPos="0" Width="128" Height="128" />
+	<Image Name="cubeicon" XPos="256" YPos="1" Width="128" Height="128" />
+</Imageset>

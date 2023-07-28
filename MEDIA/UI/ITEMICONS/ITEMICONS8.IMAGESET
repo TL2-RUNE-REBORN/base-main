@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons8" Imagefile="media/ui/itemicons/itemicons8.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="hammer_02_02" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="hammer_02" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="hammer04" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="hammer03_02" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="hammer03" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="hammer01" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="hacker" XPos="1" YPos="96" Width="62" Height="62" />
+</Imageset>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "D3XL14" Imagefile="media/ui/icons/ARMOR/D3XL14.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="D3XL14" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>

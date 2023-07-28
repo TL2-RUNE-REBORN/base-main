@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons13" Imagefile="media/ui/itemicons/itemicons13.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="2handers_16" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="2handers_15" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="2handers_14" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_13" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_12" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_11" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_10" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_09" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_08" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_07" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="2handers_06" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_05" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_04_02" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_04" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_03_02" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_03" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_02" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="2handers_01" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="rifle_02" XPos="1" YPos="193" Width="62" Height="62" />
+</Imageset>

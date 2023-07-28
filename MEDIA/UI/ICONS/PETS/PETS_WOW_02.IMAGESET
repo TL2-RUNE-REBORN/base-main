@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets_wow_02" Imagefile="media/ui/icons/pets/pets_wow_02.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pet_wow_ravager_iconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_wow_ravager_iconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_wow_ravager_icon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD1_iconselected" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_wow_triceratops_iconselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_wow_triceratops_iconhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_wow_triceratops_icon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD1_iconhover" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_wow_elitewolf_iconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_wow_elitewolf_iconhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_wow_elitewolf_icon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD1_icon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD2_iconselected" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD2_iconhover" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_wow_TBD2_icon" XPos="256" YPos="384" Width="128" Height="128" />
+</Imageset>

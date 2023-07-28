@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "AK47" Imagefile="media/ui/icons/weapons/AK47.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ak47" XPos="1" YPos="1" Width="72" Height="72" />
+</Imageset>

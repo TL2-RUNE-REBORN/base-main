@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "gems123" Imagefile="media/ui/icons/gems/gems123.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_hero_potion" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion1" XPos="64" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion2" XPos="128" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion3" XPos="192" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion4" XPos="256" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion5" XPos="320" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion6" XPos="384" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion7" XPos="448" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_hero_potion8" XPos="1" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave1" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave2" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave3" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave4" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave5" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave6" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave7" XPos="448" YPos="64" Width="64" Height="64" />
+	<Image Name="hero_grave8" XPos="1" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone1" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone2" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone3" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone4" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone5" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone6" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone7" XPos="448" YPos="128" Width="64" Height="64" />
+	<Image Name="hero_stone8" XPos="1" YPos="192" Width="64" Height="64" />
+	<Image Name="hero_grave0" XPos="64" YPos="192" Width="64" Height="64" />
+</Imageset>

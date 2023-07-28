@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons11" Imagefile="media/ui/itemicons/itemicons11.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="axes06" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="axes05" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="axes04" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="axe15" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="axe14" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="axe13" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="axe12_02" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="axe12" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="axe11" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="axe10" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="axe09_02" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="axe09" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="axe08" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="axe07" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="axe03_02" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="axe03" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="axe01" XPos="129" YPos="129" Width="62" Height="62" />
+</Imageset>

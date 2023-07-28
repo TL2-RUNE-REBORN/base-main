@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "handcrossbows" Imagefile="media/ui/icons/weapons/handcrossbows.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_handcrossbow20" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow19" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow18" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow17" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow16" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow15" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow14" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow13" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow12" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow11" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow10" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow09" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow08" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow07" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow06" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow05" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow04" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow03" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow02" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow01" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_weapon_handcrossbow" XPos="257" YPos="129" Width="62" Height="62" />
+</Imageset>

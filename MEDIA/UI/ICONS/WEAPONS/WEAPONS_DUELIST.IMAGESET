@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "weapons_duelist" Imagefile="media/ui/icons/weapons/weapons_duelist.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_weapons_duelist_duelist_sword" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>

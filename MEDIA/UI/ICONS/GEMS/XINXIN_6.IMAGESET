@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "XINXIN_6" Imagefile="media/ui/icons/gems/XINXIN_6.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="spell_shadow_summonsuccubus" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_shadow_soulleech_3" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_nature_reincarnation" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_frost_freezingbreath" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_frost_chillingarmor" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_fire_sealoffire" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="spell_fire_felrainoffire" XPos="384" YPos="0" Width="64" Height="64" />
+        <Image Name="Spell_Holy_GreaterBlessingofLight" XPos="448" YPos="0" Width="64" Height="64" />
+        <Image Name="Spell_ChargePositive" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="Spell_Holy_Fanaticism" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="Spell_Magic_LesserInvisibilty" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="Spell_Nature_WispSplode" XPos="192" YPos="64" Width="64" Height="64" />       
+        <Image Name="newscroll2301" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="newscroll2302" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="newscroll2303" XPos="384" YPos="64" Width="64" Height="64" />
+        <Image Name="newscroll2304" XPos="448" YPos="64" Width="64" Height="64" />              
+        <Image Name="newpotion101" XPos="320" YPos="128" Width="64" Height="64" />
+        <Image Name="newpotion102" XPos="384" YPos="128" Width="64" Height="64" />        
+        <Image Name="newstone101" XPos="448" YPos="128" Width="64" Height="64" />
+        <Image Name="newstone102" XPos="0" YPos="192" Width="64" Height="64" />
+        <Image Name="newstone103" XPos="64" YPos="192" Width="64" Height="64" />
+        <Image Name="newstone104" XPos="128" YPos="192" Width="64" Height="64" />
+        <Image Name="newstone105" XPos="192" YPos="192" Width="64" Height="64" />       
+        <Image Name="newring207" XPos="256" YPos="192" Width="64" Height="64" />
+        <Image Name="newring208" XPos="320" YPos="192" Width="64" Height="64" />
+        <Image Name="newNecklace209" XPos="384" YPos="192" Width="64" Height="64" />
+        <Image Name="newNecklace210" XPos="448" YPos="192" Width="64" Height="64" />
+        <Image Name="web_big_spell" XPos="64" YPos="256" Width="64" Height="64" />
+        <Image Name="ArenaMPA" XPos="128" YPos="256" Width="64" Height="64" />
+        <Image Name="returnMAP" XPos="192" YPos="256" Width="64" Height="64" />        
+        <Image Name="BlackDragonWave" XPos="256" YPos="256" Width="64" Height="64" />
+        <Image Name="healall211self" XPos="320" YPos="256" Width="64" Height="64" /> 
+</Imageset>

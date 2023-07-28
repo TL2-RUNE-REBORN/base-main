@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets_vp_14" Imagefile="media/ui/icons/pets/pets_vp_14.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pet_vp_diablo_iconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_diablo_iconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_diablo_icon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_lvbu_iconselected" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_eviltree_iconselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_eviltree_iconhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_eviltree_icon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_lvbu_iconhover" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_fishman_iconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_fishman_iconhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_fishman_icon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_lvbu_icon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_ghostchinese_iconselected" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_vp_ghostchinese_iconhover" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_vp_ghostchinese_icon" XPos="256" YPos="384" Width="128" Height="128" />
+</Imageset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "PETS_VPP_01" Imagefile="media/ui/icons/pets/PETS_VPP_01.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pets_vpp_fox_iconhover" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pets_vpp_fox_iconselected" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pets_vpp_fox_icon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="pets_vpp_undeadbabydragon_iconhover" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="pets_vpp_imagbear_iconhover" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="pets_vpp_imagbear_iconselected" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="pets_vpp_imagbear_icon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="pets_vpp_undeadbabydragon_iconselected" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="empty07" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="empty08" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="empty09" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="pets_vpp_undeadbabydragon_icon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="empty11" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="empty12" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="empty13" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="empty14" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "necro_weaponary" Imagefile="media/ui/icons/weapons/necro_weaponary.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_necro_shield1" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_shield2" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_shield3" XPos="127" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_scythe" XPos="190" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_wand" XPos="253" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_mace" XPos="316" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_necro_staff" XPos="379" YPos="1" Width="62" Height="62" />
+        <Image Name="icon_mp40" XPos="1" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_tommygun" XPos="64" YPos="64" Width="62" Height="62" />
+</Imageset>

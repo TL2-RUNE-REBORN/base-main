@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "XINXIN_5" Imagefile="media/ui/icons/gems/XINXIN_5.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="Sachets01" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets02" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets03" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets04" XPos="192" YPos="0" Width="64" Height="64" />	
+        <Image Name="Sachets05" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets06" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets07" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="Sachets08" XPos="448" YPos="0" Width="64" Height="64" />	
+        <Image Name="Sachets09" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets10" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets11" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets12" XPos="192" YPos="64" Width="64" Height="64" />	
+        <Image Name="Sachets13" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets14" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets15" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="Sachets16" XPos="448" YPos="64" Width="64" Height="64" />	
+        <Image Name="Sachets17" XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="Sachets18" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="MagicBeads01" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="MagicBeads02" XPos="192" YPos="128" Width="64" Height="64" />	
+        <Image Name="Sachets19" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="Sachets20" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="MagicBeads03" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="MagicBeads04" XPos="448" YPos="128" Width="64" Height="64" />	
+        <Image Name="MagicBeads05" XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="MagicBeads06" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="MagicBeads07" XPos="128" YPos="192" Width="64" Height="64" />
+        <Image Name="MagicBeads08" XPos="192" YPos="192" Width="64" Height="64" />	
+        <Image Name="MagicBeads09" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="MagicBeads10" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="MagicBeads11" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="MagicBeads12" XPos="448" YPos="192" Width="64" Height="64" /> 
+</Imageset>

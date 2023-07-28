@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "souls" Imagefile="media/ui/icons/salan/souls.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="minor_soul" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="lesser_soul" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="greater_soul" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="magnificent_soul" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="angelic_soul" XPos="1" YPos="65" Width="62" Height="62" />
+</Imageset>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons" Imagefile="media/ui/itemicons/itemicons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zombie_axe" XPos="129" YPos="482" Width="62" Height="62" />
+	<Image Name="wand_17_02" XPos="257" YPos="482" Width="62" Height="62" />
+	<Image Name="wand_03_02" XPos="321" YPos="482" Width="62" Height="62" />
+	<Image Name="wand_03" XPos="385" YPos="482" Width="62" Height="62" />
+	<Image Name="wand_02_02" XPos="449" YPos="482" Width="62" Height="62" />
+</Imageset>

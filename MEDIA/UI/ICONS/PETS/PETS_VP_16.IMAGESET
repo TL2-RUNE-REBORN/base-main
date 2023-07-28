@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets_vp_16" Imagefile="media/ui/icons/pets/pets_vp_16.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pet_vp_batrabbit_iconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_batrabbit_iconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_batrabbit_icon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_embercolossus_iconselected" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_vp_tl1skeleton_iconselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_tl1skeleton_iconhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_tl1skeleton_icon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_embercolossus_iconhover" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="pet_vp_xuanyuan_iconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_xuanyuan_iconhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_xuanyuan_icon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_embercolossus_icon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="pet_vp_frog_iconselected" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_vp_frog_iconhover" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="pet_vp_frog_icon" XPos="256" YPos="384" Width="128" Height="128" />
+</Imageset>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "weapons_warglaive" Imagefile="media/ui/icons/weapons/warglaives.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_warglaive01" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>

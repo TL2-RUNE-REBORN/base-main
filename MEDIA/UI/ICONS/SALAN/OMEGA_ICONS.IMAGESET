@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "omega_icons" Imagefile="media/ui/icons/salan/omega_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_omega_blade" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="infinity_symbol" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_pumkin" XPos="128" YPos="1" Width="62" Height="62" />	
+</Imageset>

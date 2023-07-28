@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "weapons_icons" Imagefile="media/ui/icons/weapons/weapons_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_rgx" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_ares_wrath" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_aa12" XPos="127" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_jamadhar" XPos="190" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_dragon_shield" XPos="253" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_kili_swords" XPos="316" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_mjolnir" XPos="379" YPos="1" Width="62" Height="62" />	
+	<Image Name="icon_tenebre_longsword" XPos="442" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tools_greatsword" XPos="1" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_titan_might" XPos="64" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_dark_sword" XPos="127" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_bat_bow" XPos="190" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_aa12_s" XPos="253" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_tools_rifle" XPos="316" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_tools_polearm" XPos="379" YPos="64" Width="62" Height="62" />	
+	<Image Name="icon_tools_greataxe" XPos="442" YPos="64" Width="62" Height="62" />
+	<Image Name="icon_tools_cannon" XPos="1" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_greathammer" XPos="64" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_axe" XPos="127" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_bow" XPos="190" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_shield" XPos="253" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_pistol" XPos="316" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_claw" XPos="379" YPos="127" Width="62" Height="62" />	
+	<Image Name="icon_tools_hammer" XPos="442" YPos="127" Width="62" Height="62" />
+	<Image Name="icon_tools_staff" XPos="1" YPos="190" Width="62" Height="62" />
+	<Image Name="icon_tools_sword" XPos="64" YPos="190" Width="62" Height="62" />
+	<Image Name="icon_tools_wand" XPos="127" YPos="190" Width="62" Height="62" />
+	<Image Name="icon_tools_xbow" XPos="190" YPos="190" Width="62" Height="62" />
+</Imageset>

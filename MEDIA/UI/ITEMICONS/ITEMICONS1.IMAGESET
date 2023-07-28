@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons1" Imagefile="media/ui/itemicons/itemicons1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="wand_02" XPos="1" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_17" XPos="65" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_16" XPos="129" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_15" XPos="193" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_14" XPos="257" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_13_02" XPos="321" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_13" XPos="385" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_12" XPos="449" YPos="3" Width="62" Height="62" />
+	<Image Name="wands_11" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_10" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_09" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_08" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_07" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_06" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_05" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_04" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="wands_03b" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="wands_02b" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="wand01" XPos="129" YPos="129" Width="62" Height="62" />
+</Imageset>

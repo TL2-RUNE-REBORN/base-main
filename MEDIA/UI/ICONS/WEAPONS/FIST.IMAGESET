@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "FIST" Imagefile="media/ui/icons/weapons/FIST.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="fast9" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="fast8" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="fast7" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="fast6" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="fast5" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="fast4" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="fast3" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="fast2" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="fast15" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="fast14" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="fast13" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="fast12" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="fast11" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="fast10" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="fast1" XPos="1" YPos="133" Width="64" Height="64" />
+</Imageset>

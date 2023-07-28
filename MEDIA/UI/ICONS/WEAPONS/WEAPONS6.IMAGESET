@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "weapons6" Imagefile="media/ui/icons/weapons/weapons6.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_syn1" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_syn2" XPos="62" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_syn3" XPos="124" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_syn4" XPos="186" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_syn5" XPos="248" YPos="1" Width="62" Height="62" />
+</Imageset>

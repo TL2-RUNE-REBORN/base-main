@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAHELMET_" Imagefile="media/ui/icons/weapons/IMBAHELMET_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbahelmet_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_30" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_3" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbahelmet_29" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_28" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_27" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_26" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_25" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_24" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_23" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_22" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbahelmet_21" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_20" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_2" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_19" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_18" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_17" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_16" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_15" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbahelmet_14" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="imbahelmet_13" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="imbahelmet_12" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="imbahelmet_11" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="imbahelmet_10" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="imbahelmet_1" XPos="321" YPos="193" Width="62" Height="62" />
+</Imageset>

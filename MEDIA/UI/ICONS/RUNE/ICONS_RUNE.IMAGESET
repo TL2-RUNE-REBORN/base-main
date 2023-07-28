@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "rune" Imagefile="media/ui/icons/rune/icons_rune.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_rune01" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune02" XPos="64" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune03" XPos="128" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune04" XPos="192" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune05" XPos="256" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune06" XPos="320" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune07" XPos="384" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune08" XPos="448" YPos="1" Width="64" Height="64" />
+	<Image Name="icons_rune09" XPos="1" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune10" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune11" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune12" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune13" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune14" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune15" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune16" XPos="448" YPos="64" Width="64" Height="64" />
+	<Image Name="icons_rune17" XPos="1" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune18" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune19" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune20" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune21" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune22" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune23" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune24" XPos="448" YPos="128" Width="64" Height="64" />
+	<Image Name="icons_rune25" XPos="1" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune26" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune27" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune28" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune29" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune30" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune31" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune32" XPos="448" YPos="192" Width="64" Height="64" />
+	<Image Name="icons_rune33" XPos="1" YPos="256" Width="64" Height="64" />
+</Imageset>

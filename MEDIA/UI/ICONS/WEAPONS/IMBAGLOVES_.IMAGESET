@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAGLOVES_" Imagefile="media/ui/icons/weapons/IMBAGLOVES_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbagloves_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_3" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_25" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbagloves_24" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_23" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_22" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_21" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_20" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_2" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_19" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_18" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbagloves_17" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_16" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_15" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_14" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_13" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_12" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_11" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_10" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbagloves_1" XPos="1" YPos="193" Width="62" Height="62" />
+</Imageset>

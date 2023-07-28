@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "syn_tier0_belts_trinkets.dds" Imagefile="media/ui/icons/armor/syn_tier0_belts_trinkets.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="tier0_dw_belt" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="tier0_dw_ring" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="tier0_dw_amulet" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="tier0_fe_belt" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="tier0_fe_ring" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="tier0_fe_amulet" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="tier0_ip_belt" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="tier0_ip_ring" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="tier0_ip_amulet" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="tier0_pet_belt" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="tier0_pet_ring" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="tier0_pet_amulet" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="tier0_range_belt" XPos="1" YPos="257" Width="62" Height="62" />
+	<Image Name="tier0_range_ring" XPos="65" YPos="257" Width="62" Height="62" />
+	<Image Name="tier0_range_amulet" XPos="129" YPos="257" Width="62" Height="62" />
+	<Image Name="tier0_survival_belt" XPos="1" YPos="321" Width="62" Height="62" />
+	<Image Name="tier0_survival_ring" XPos="65" YPos="321" Width="62" Height="62" />
+	<Image Name="tier0_survival_amulet" XPos="129" YPos="321" Width="62" Height="62" />
+	<Image Name="tier0_th_belt" XPos="1" YPos="385" Width="62" Height="62" />
+	<Image Name="tier0_th_ring" XPos="65" YPos="385" Width="62" Height="62" />
+	<Image Name="tier0_th_amulet" XPos="129" YPos="385" Width="62" Height="62" />
+</Imageset>

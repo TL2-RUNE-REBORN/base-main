@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "shinobi" Imagefile="media/ui/icons/weapons/shinobi.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_katana" XPos="62" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_katana2" XPos="124" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_katana3" XPos="186" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tonfa" XPos="248" YPos="1" Width="62" Height="62" />
+</Imageset>

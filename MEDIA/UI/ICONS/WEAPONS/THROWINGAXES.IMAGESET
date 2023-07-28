@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "throwingaxes" Imagefile="media/ui/icons/weapons/throwingaxes.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_throwingaxe3" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe4" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe5" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe8" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe9" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe10" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe11" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe13" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingaxe15" XPos="65" YPos="65" Width="62" Height="62" />
+</Imageset>

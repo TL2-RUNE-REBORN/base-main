@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "mini_tyrael_icons" Imagefile="media/ui/icons/pets/mini_tyrael_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pet_minityraeliconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_minityraeliconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_minityraelicon" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="tyraelwingicon" XPos="160" YPos="154" Width="64" Height="64" />
+</Imageset>

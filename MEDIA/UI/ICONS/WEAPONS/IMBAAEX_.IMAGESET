@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAAEX_" Imagefile="media/ui/icons/weapons/IMBAAEX_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbaaex_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_34" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_33" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbaaex_32" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_31" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_30" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_3" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_29" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_28" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_27" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_25" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbaaex_24" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_23" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_22" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_21" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_20" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_2" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_19" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_18" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbaaex_17" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_16" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_15" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_14" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_13" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_12" XPos="321" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_11" XPos="385" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_10" XPos="449" YPos="193" Width="62" Height="62" />
+	<Image Name="imbaaex_1" XPos="1" YPos="257" Width="62" Height="62" />
+</Imageset>

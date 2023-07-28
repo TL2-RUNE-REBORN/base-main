@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheetsSTASH" Imagefile="media/ui/hud/ingametexturesheetsSTASH.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="IG_Next3_BUTTON" XPos="1" YPos="1" Width="48" Height="48" />
+	<Image Name="IG_Next1_BUTTON" XPos="50" YPos="1" Width="48" Height="48" />
+	<Image Name="IG_Next_BUTTON_ROLLOVER" XPos="100" YPos="1" Width="48" Height="48" />
+	<Image Name="IG_Previous3_BUTTON" XPos="1" YPos="60" Width="48" Height="48" />
+	<Image Name="IG_Previous1_BUTTON" XPos="50" YPos="60" Width="48" Height="48" />
+	<Image Name="IG_Previous_BUTTON_ROLLOVER" XPos="100" YPos="60" Width="48" Height="48" />
+	<Image Name="IG_BAG_BUTTON" XPos="1" YPos="120" Width="41" Height="47" />
+	<Image Name="IG_BAG_BUTTON_ROLLOVER" XPos="50" YPos="120" Width="41" Height="47" />
+	<Image Name="ig_inventory_menu_full" XPos="513" YPos="1" Width="510" Height="715" />
+</Imageset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons9" Imagefile="media/ui/itemicons/itemicons9.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="crossbow_02_04" XPos="449" YPos="193" Width="62" Height="62" />
+	<Image Name="crossbow_02_03" XPos="1" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbow_02_02" XPos="65" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbow_02" XPos="129" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbows_15" XPos="193" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbows_14" XPos="257" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbows_13" XPos="321" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbows_12" XPos="385" YPos="257" Width="62" Height="62" />
+	<Image Name="crossbows_11" XPos="449" YPos="257" Width="62" Height="62" />
+</Imageset>

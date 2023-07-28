@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBAPOLEARMS_" Imagefile="media/ui/icons/weapons/IMBAPOLEARMS_.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbapolearms_9" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_8" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_7" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_6" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_5" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_4" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_3" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_25" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="imbapolearms_24" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_23" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_22" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_21" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_20" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_2" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_19" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_18" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="imbapolearms_17" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_16" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_15" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_14" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_13" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_12" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_11" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_10" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="imbapolearms_1" XPos="1" YPos="193" Width="62" Height="62" />
+</Imageset>

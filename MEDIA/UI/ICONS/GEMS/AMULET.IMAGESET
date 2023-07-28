@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "amulet" Imagefile="media/ui/icons/amulets/amulet.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="AMULET0_1" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="AMULET0_2" XPos="64" YPos="1" Width="64" Height="64" />
+	<Image Name="AMULET0_3" XPos="128" YPos="1" Width="64" Height="64" />
+	<Image Name="AMULET0_4" XPos="192" YPos="1" Width="64" Height="64" />
+</Imageset>

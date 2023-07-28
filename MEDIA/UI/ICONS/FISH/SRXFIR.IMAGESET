@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "srxfir" Imagefile="media/ui/icons/fish/srxfir.dds" 
+NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mingwang" XPos="0" YPos="0" Width="56" Height="56" />
+	<Image Name="daoshen" XPos="56" YPos="0" Width="56" Height="55" />
+	<Image Name="wunv" XPos="112" YPos="0" Width="55" Height="55" />
+	<Image Name="miss1" XPos="167" YPos="0" Width="55" Height="55" />
+	<Image Name="long6" XPos="222" YPos="0" Width="55" Height="55" />
+	<Image Name="lianjin1" XPos="277" YPos="0" Width="55" Height="55" />
+	<Image Name="leishen3" XPos="332" YPos="0" Width="55" Height="55" />
+	<Image Name="guafu" XPos="387" YPos="0" Width="55" Height="54" />
+	<Image Name="zhizhengguan" XPos="442" YPos="0" Width="54" Height="54" />
+	<Image Name="stum1" XPos="387" YPos="54" Width="54" Height="54" />
+	<Image Name="shixie2" XPos="441" YPos="54" Width="54" Height="54" />
+	<Image Name="shixie1" XPos="56" YPos="55" Width="54" Height="54" />
+	<Image Name="shendeng" XPos="110" YPos="55" Width="54" Height="54" />
+	<Image Name="qiangdao2" XPos="164" YPos="55" Width="54" Height="54" />
+	<Image Name="miss3" XPos="218" YPos="55" Width="54" Height="54" />
+	<Image Name="miss2" XPos="272" YPos="55" Width="54" Height="54" />
+	<Image Name="gulong" XPos="326" YPos="55" Width="54" Height="54" />
+	<Image Name="chuanzhang" XPos="0" YPos="56" Width="54" Height="54" />
+	<Image Name="zhanshen" XPos="387" YPos="108" Width="53" Height="53" />
+	<Image Name="wumian" XPos="440" YPos="108" Width="53" Height="53" />
+	<Image Name="weicheng" XPos="56" YPos="109" Width="53" Height="53" />
+	<Image Name="skele" XPos="109" YPos="109" Width="53" Height="53" />
+	<Image Name="mogu7" XPos="162" YPos="109" Width="53" Height="53" />
+	<Image Name="langren1" XPos="215" YPos="109" Width="53" Height="53" />
+	<Image Name="jiqiren" XPos="268" YPos="109" Width="53" Height="53" />
+	<Image Name="xidiany" XPos="321" YPos="109" Width="52" Height="52" />
+	<Image Name="mofazhizheng" XPos="0" YPos="110" Width="52" Height="52" />
+</Imageset>

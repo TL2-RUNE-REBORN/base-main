@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "tier_weapon_icons" Imagefile="media/ui/icons/weapons/tier_weapon_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_tier0_firecannon" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_fireshield" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_firewand" XPos="127" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_icemace" XPos="190" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_iceshield" XPos="253" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_icestaff" XPos="316" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_tier0_petshield" XPos="379" YPos="1" Width="62" Height="62" />	
+	<Image Name="icon_tier0_petmace" XPos="442" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_xb15" XPos="1" YPos="64" Width="62" Height="62" />
+</Imageset>

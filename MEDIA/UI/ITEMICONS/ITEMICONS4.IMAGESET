@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "itemicons4" Imagefile="media/ui/itemicons/itemicons4.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="staff_03" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="staff_02_02" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="staff_02" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="staff01" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="spikebow" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="skeletonshield" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_15" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_14" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_13" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_12" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_11" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="shields_10" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_08" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_07" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_06" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_05" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_04" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_03" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="shields_02" XPos="449" YPos="129" Width="62" Height="62" />
+</Imageset>

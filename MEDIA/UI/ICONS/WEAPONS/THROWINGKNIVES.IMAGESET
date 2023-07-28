@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "throwingknives" Imagefile="media/ui/icons/weapons/throwingknives.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_weapon_throwingknife11" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingknife3" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingtl1knife11" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingtl1knife11_2" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingknife2" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingknife14" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingknife18" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_weapon_throwingknifenetherim" XPos="449" YPos="1" Width="62" Height="62" />
+</Imageset>

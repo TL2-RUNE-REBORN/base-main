@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "INGAMETEXTURESHEETS10" Imagefile="media/ui/hud/ingametexturesheets10.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_lboss_health_bar" XPos="1" YPos="1" Width="196" Height="23" />
+	<Image Name="ig_dboss_health_bar" XPos="199" YPos="1" Width="196" Height="23" />
+</Imageset>
