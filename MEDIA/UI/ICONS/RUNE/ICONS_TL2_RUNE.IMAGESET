@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "ICONS_TL2_RUNE" Imagefile="media/ui/icons/rune/ICONS_TL2_RUNE.dds" NativeHorzRes="512" NativeVertRes="320" AutoScaled="true" >
+	<Image Name="ICON_TL2_RUNE_01" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_02" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_03" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_04" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_05" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_06" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_07" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_08" XPos="448" YPos="0" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_09" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_10" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_11" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_12" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_13" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_14" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_15" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_16" XPos="448" YPos="64" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_17" XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_18" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_19" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_20" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_21" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_22" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_23" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_24" XPos="448" YPos="128" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_25" XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_26" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_27" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_28" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_29" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_30" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_31" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_32" XPos="448" YPos="192" Width="64" Height="64" />
+	<Image Name="ICON_TL2_RUNE_33" XPos="0" YPos="256" Width="64" Height="64" />
+</Imageset>
