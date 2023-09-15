@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "_MIKURO_ICON_SET" Imagefile="media/ui/icons/_MIKURO/_MIKURO_ICON_SET.dds" NativeHorzRes="512" NativeVertRes="512" AutoScaled="true" >
+	<Image Name="_MIKURO_SKILL_ICON_BREAK_ARMOR" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="_MIKURO_SKILL_ICON_BLEEDING" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="_MIKURO_ITEM_ICON_RESPECPOTION" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="_MIKURO_ITEM_ICON_WITCHPOTION" XPos="192" YPos="0" Width="64" Height="64" />
+</Imageset>
