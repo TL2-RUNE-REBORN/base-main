@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DC2_SCROLL_ICONS" Imagefile="media/ui/icons/_MIKURO/DC2_SCROLL_ICONS.dds" NativeHorzRes="512" NativeVertRes="512" AutoScaled="true" >
+	<Image Name="DC2_SCROLL_ICONS_SWORD" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="DC2_SCROLL_ICONS_LICH" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="DC2_SCROLL_ICONS_ARCHER" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="DC2_SCROLL_ICONS_BLOOD" XPos="192" YPos="0" Width="64" Height="64" />
+</Imageset>
