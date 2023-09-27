@@ -6,4 +6,5 @@
 	<Image Name="_MIKURO_ITEM_ICON_WITCHPOTION" XPos="192" YPos="0" Width="64" Height="64" />
 	<Image Name="_MIKURO_ITEM_ICON_DC2_RGLEARN_TORNADOSHOT" XPos="256" YPos="0" Width="64" Height="64" />
 	<Image Name="_MIKURO_ITEM_ICON_DC2_RGINCREASE_TORNADOSHOT" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="_MIKURO_ITEM_ICON_AEG_EYEOFJANAS" XPos="384" YPos="0" Width="64" Height="64" />
 </Imageset>
